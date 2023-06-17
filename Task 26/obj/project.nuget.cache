@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D8tO9sC/FvsBGD2SOX3gFw32AdripsnmksSWy6psFeoGflZiJCkK0mZubam6DIssiC8Sxbx5KKsdvf92+S7NvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\New Breath\\Task 26\\Task 26.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
